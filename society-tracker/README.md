@@ -92,6 +92,6 @@ items first.
 - Update `CORS`/`VITE_API_URL` to match your deployed domains.
 
 ## Live URLs
-- Frontend: https://society-tracker-frontend-o1h8.onrender.com/login
+- Frontend: https://society-tracker-frontend-o1h8.onrender.com
 - Backend API: https://society-tracker-backend-m1wy.onrender.com
 - GitHub repo: https://github.com/Ananyachaurasia/society-maintenance-tracker
