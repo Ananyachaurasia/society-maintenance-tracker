@@ -91,10 +91,7 @@ items first.
 - **Frontend:** Vercel — set `VITE_API_URL` to your deployed backend URL.
 - Update `CORS`/`VITE_API_URL` to match your deployed domains.
 
-## Deliverables checklist (for submission)
-- [ ] Push this repo to GitHub
-- [ ] Deploy backend + frontend, put the live URL in this README
-- [ ] Write the 800-word system design doc (history model, overdue
-      detection, photo handling, notification flow — see above for the
-      substance, turn it into prose)
-- [ ] Zip the source and attach alongside the repo link if required
+## Live URLs
+- Frontend: https://society-tracker-frontend.onrender.com
+- Backend API: https://society-tracker-backend-m1wy.onrender.com
+- GitHub repo: https://github.com/Ananyachaurasia/society-maintenance-tracker
