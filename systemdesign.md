@@ -1,5 +1,3 @@
-Absolutely. Below is the **complete GitHub-ready System Design**, around 800 words. Paste everything into your GitHub file while in **Edit** mode. Then click **Preview** to see the headings rendered in dark/bold GitHub style.
-
 # System Design
 
 ## Overview
